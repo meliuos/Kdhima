@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#navi
+{
+    background-color: #0077B6;
+}
+.land 
+{
+    color: #0077B6;
+}
+.par 
+{
+    color: #03045E;
+    font-size: large;
+    font-weight: 500;
+}
+.btnin {
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    box-shadow: none;
+    text-decoration: none;
+    color: white;
+    border: white solid 1px;
+}
+.btnin:hover {
+    background-color: white;
+    color: #0077B6;
+}
+.btnup {
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    color: #0077B6;
+    border:1px solid white ;
+    border-radius: 5px;
+}
+.btnup:hover {
+    background-color: transparent;
+    color: white;
+}
+.btnd {
+    background-color: #0077B6;
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    margin: 15px;
+    border-radius: 15px;
+}
+.btnd:hover {
+    background-color: #045b86;
+    color: white;
+}
